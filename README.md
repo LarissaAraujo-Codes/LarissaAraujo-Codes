@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Larissa!
+# 👋 Yo-ho-ho! Eu sou a Larissa, navegando no mundo da programação
 
 **Desenvolvedora em formação, guiada pela curiosidade e fascinada pelo universo — da precisão dos algoritmos à imensidão das galáxias.** 💻✨🌌
 
