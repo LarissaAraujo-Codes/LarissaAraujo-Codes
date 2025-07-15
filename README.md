@@ -40,7 +40,7 @@ Meu portfólio está em construção. Em breve, compartilharei meus projetos e c
 - Instagram pessoal: [(https://www.instagram.com/lari.araujo52?igsh=MWUwOGdhb2JqZDI0aw==)]
 
 - WhatsApp: [https://wa.me/5511949281209))
-- 
+
 <!--- 
 - LinkedIn: [SeuLinkedIn](https://www.linkedin.com/in/seulinkedin)  
 - Twitter: [@seutwitter](https://twitter.com/seutwitter) 
