@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Larissa!
 
-<!--
-**LarissaAraujo-Codes/LarissaAraujo-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedora em formação, guiada pela curiosidade e fascinada pelo universo — da precisão dos algoritmos à imensidão das galáxias.** 💻✨🌌
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente me especializando em **HTML**, **CSS**, **JavaScript**, **Python** e **Excel**, com foco em automação e otimização de processos.  
+⏱️ Dedicada a simplificar processos e automatizar relatórios para maximizar produtividade.  
+💻 Fundamentos em desenvolvimento web, bancos de dados e análise de dados.  
+🐱 Apaixonada por tecnologia, cultura geek, animais e por desenvolver soluções práticas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚧 Portfólio em construção
+
+Meu portfólio está em construção. Em breve, compartilharei meus projetos e conhecimentos adquiridos.
+
+---
+
+## 📈 Minhas estatísticas no GitHub
+
+![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaAraujo-Codes&show_icons=true&theme=dracula)
+
+---
+
+## 📫 Como me encontrar
+
+- LinkedIn: [SeuLinkedIn](https://www.linkedin.com/in/seulinkedin)  
+- Twitter: [@seutwitter](https://twitter.com/seutwitter)  
+- Instagram pessoal: [@seuinstagram](https://instagram.com/seuinstagram)  
+- Instagram profissional: [@seuinstagram](https://instagram.com/seuinstagram)  
+- WhatsApp: [@seuinstagram](https://instagram.com/seuinstagram)
+
+---
+
+⚡ “Transformando ideias em automações que aceleram resultados.”
+
+---
+
