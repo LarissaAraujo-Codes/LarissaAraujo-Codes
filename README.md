@@ -36,11 +36,18 @@ Meu portfólio está em construção. Em breve, compartilharei meus projetos e c
 
 ## 📫 Como me encontrar
 
-#- LinkedIn: [SeuLinkedIn](https://www.linkedin.com/in/seulinkedin)  
-#- Twitter: [@seutwitter](https://twitter.com/seutwitter)  
+
 - Instagram pessoal: [(https://www.instagram.com/lari.araujo52?igsh=MWUwOGdhb2JqZDI0aw==)]
-#- Instagram profissional: [@Lari.Araujo52](https://instagram.com/seuinstagram)  
+
 - WhatsApp: [https://wa.me/5511949281209))
+- 
+<!--- 
+- LinkedIn: [SeuLinkedIn](https://www.linkedin.com/in/seulinkedin)  
+- Twitter: [@seutwitter](https://twitter.com/seutwitter) 
+- Instagram profissional: [@Lari.Araujo52](https://instagram.com/seuinstagram) 
+--> 
+
+
 
 ---
 
