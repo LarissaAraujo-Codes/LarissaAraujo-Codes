@@ -37,9 +37,9 @@ Meu portfólio está em construção. Em breve, compartilharei meus projetos e c
 ## 📫 Como me encontrar
 
 
-- Instagram pessoal: [(https://www.instagram.com/lari.araujo52?igsh=MWUwOGdhb2JqZDI0aw==)]
+- Instagram pessoal: https://www.instagram.com/lari.araujo52?igsh=MWUwOGdhb2JqZDI0aw==
 
-- WhatsApp: [https://wa.me/5511949281209))
+- WhatsApp: https://wa.me/5511949281209
 
 <!--- 
 - LinkedIn: [SeuLinkedIn](https://www.linkedin.com/in/seulinkedin)  
