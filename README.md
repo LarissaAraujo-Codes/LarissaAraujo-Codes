@@ -1,4 +1,4 @@
-# 👋 Yo-ho-ho! Eu sou a Larissa, navegando no mundo da programação
+# Pela lei do equivalente, eu sou a Larissa — buscando o equilíbrio entre código e criatividade.
 
 **Desenvolvedora em formação, guiada pela curiosidade e fascinada pelo universo — da precisão dos algoritmos à imensidão das galáxias.** 💻✨🌌
 
